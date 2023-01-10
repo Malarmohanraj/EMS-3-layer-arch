@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Capgemini.EMS.Businesslayer\Capgemini.EMS.Businesslayer.csproj" />
+    <ProjectReference Include="..\Capgemini.EMS.Entities\Capgemini.EMS.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
